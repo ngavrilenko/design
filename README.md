@@ -1,11 +1,11 @@
 # Техники тест-дизайна
 
-До проведения тестирования были определены подходящие методы, типы и уровни тестирования для приложения ["Интернет-магазин"](https://qa.demoshopping.ru/), и мной выполнен анализ требований и макета.
+При тестировании веб-приложения ["Интернет-магазин"](https://qa.demoshopping.ru/) применялись техники тест-дизайна: эквивалентное разбиение, попарное тестирование и таблица принятия решений. Проверялась корректность работы корзины, фильтров и оформления заказа. В ходе работы выявлены и документированы несколько дефектов.
 
-- [Тестирование формы регистрации интернет магазина](https://docs.google.com/spreadsheets/d/1zt6bLQtd14I6lCGOWAKVOpv4QAiWo7-R/edit?gid=1516859359#gid=1516859359)
+- [Тестирование формы регистрации с помощью техники "Эквивалентное разбиение"](https://docs.google.com/spreadsheets/d/1zt6bLQtd14I6lCGOWAKVOpv4QAiWo7-R/edit?gid=1516859359#gid=1516859359)
 
-- [Тестирование фильтрации и сортировки интернет магазина](https://docs.google.com/spreadsheets/d/1zt6bLQtd14I6lCGOWAKVOpv4QAiWo7-R/edit?gid=1516859359#gid=1516859359)
+- [Тестирование фильтрации и сортировки с помощью техники "Попарное тестирование"](https://docs.google.com/spreadsheets/d/16Cluma1ghp7n2ux0yqQK6Ufw_WLAKDZZ/edit?gid=1476919147#gid=1476919147)
 
-- [Тестирование модуля оплаты Paypal](https://docs.google.com/spreadsheets/d/1RU2jcp1mZa8J773qNuBXExhnLVTKqicV/edit?usp=drive_link&ouid=116638322477681947630&rtpof=true&sd=true)
+- [Тестирование модуля оплаты Paypal с помощью "Таблицы принятия решений"](https://docs.google.com/spreadsheets/d/1RU2jcp1mZa8J773qNuBXExhnLVTKqicV/edit?usp=drive_link&ouid=116638322477681947630&rtpof=true&sd=true)
 
 
